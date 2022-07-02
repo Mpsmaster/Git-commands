@@ -12,6 +12,7 @@
 * git --help
 * ls
 * clear
+* "Q" sai de listas longas
 * git --v
 * git push origin HEAD
 * git rm
