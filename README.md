@@ -17,6 +17,8 @@
 * git push origin HEAD
 * git rm
 * git config --global user
+* git config --global --unset user.email (remove email)
+* git config --global --unset user.name (remove name)
 * git pull origin HEAD
 * git mv
 * git init
