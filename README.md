@@ -29,4 +29,3 @@
 * cat keyname.pub
 * eval $(ssh-agent -s)
 * ssh-add key private
-mais alguma coisa
